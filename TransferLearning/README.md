@@ -37,6 +37,3 @@ This project demonstrates a ** image classification model** using **transfer lea
 - Achieved good **training and validation accuracy** on a small dataset  
 - Plots of **accuracy & loss curves** included  
 
----
-
-## Project Structure
